@@ -5,3 +5,5 @@ def devi(request):
     return HttpResponse("pega")
 # Create your views here.
 print("hello world")
+hffd
+
